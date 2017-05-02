@@ -1,6 +1,6 @@
-# Use vinsdocker/jmbase
+# Use yivanova/jmbase
 
-FROM vinsdocker/jmbase
+FROM yivanova/jmbase
 MAINTAINER TestAutomationGuru
 
 # Ports to be exposed from the container for JMeter Slaves/Server
